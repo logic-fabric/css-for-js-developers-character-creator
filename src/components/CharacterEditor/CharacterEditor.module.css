@@ -2,6 +2,14 @@
   padding: 128px 0 64px;
 }
 
+.skylineEffectbackground {
+  position: fixed;
+  top: 60%;
+  bottom: 0;
+  width: 100%;
+  background: hsl(195deg, 20%, 86%);
+}
+
 .maxWidthWrapper {
   position: relative;
 }
